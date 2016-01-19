@@ -1,0 +1,260 @@
+body{
+    font-family:  Arial, Helvica,sans-serif;
+    margin:  0 auto;
+    width: 100%;
+    height: 100%;
+    background: white; 
+    justify-content: center;
+    
+}
+section{
+   height: 100%;
+    width: 100%;
+    text-align: center;
+    float: left;
+    padding: 15px 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
+#contenedor {
+    font-weight: bold;
+    height: 100%;
+    width: 97%;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#principal {
+    text-align: center;
+    float: left;
+    padding: 15px 20px;
+    font-size: 20px;
+    width: 97%;
+}
+
+
+#boton a{ 
+   width: 150px;
+    height: 40px;
+    padding: 12px 20px;
+    background: #61bd4f;
+    color: #fff;
+    text-decoration: none;
+}
+
+#contenedor-logos{
+    background-color: #e4f0f6;
+    text-align: justify;
+    font-size: 20px;
+    
+    position: relative;
+    top:-0px;
+    left: 20px;
+    width: 600px;
+    width: 96%;
+    text-align: center;
+    
+}
+#imagen3{
+    position: relative;
+    top: -90px;
+    left: 790px;
+    width: 45%;
+    
+}
+#logos{
+    position: relative;
+    top: 100px;
+    right: -110px;
+    width: 45%;
+    height: 160px;
+}
+
+#blanco1{
+    position: relative;
+    width: 596px;
+    right: -270px;
+    text-align: justify;
+    background: white;
+    font-size: 20px;
+    height: 260px;
+ 
+}
+.derecha{
+    position: absolute;
+    top: -0em;
+    left: 710px;
+}
+.city {
+    position: relative;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    top: -10px;
+    left: 340px;  
+} 
+
+#azul{
+    background: #0079bf;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+#texto-azul{
+    position: relative;
+    float: -right;
+    top: 100px;
+    color: white;
+    height: 20px;
+    text-align:center;
+    font-size: 20px;  
+}
+#lobo{
+     background: #0079bf;
+     width: 100%;
+     height: 210px;
+     color: white;
+    
+}
+#centro{
+    position: relative;
+    top:-0px;
+    left: 20px;
+    width: 600px;
+    width: 96%;
+    text-align: center;
+    text-decoration: underline;   
+}
+#centro a{
+    display: block;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    margin-top: 10px;
+    border: 3px solid #fff;
+}
+#centro a:hover{
+    background: rgba(51,51,52,52,0.5);
+}
+#blanco{
+    position: relative;
+    top:-0px;
+    left: 20px;
+    width: 96%;
+    text-align: center;
+    background: white;
+    font-size: 20px;
+    height: 100%;
+    
+}
+.center{
+    display: block;
+    max-width: 585px;
+    margin: 0 auto;
+    position: relative;
+}
+.text-center {
+    text-align: center;
+    font-size: 22px;
+}
+.text-justify{
+    text-align: justify;
+    font-size: 22px;
+}
+
+#azul-claro {
+    background-color: #0079bf;
+    font-size: 20px;
+    position: relative;
+    top:-0px;
+    color: white;
+    left: 20px;
+    width: 96%;
+    text-align: center;
+}
+
+#morado {
+    background-color: #42548e;
+    width: 100%;
+    font-size: 20px;
+    position: relative;
+    top:-0px;
+    left: 20px;
+    width: 96%;
+    text-align: center;
+}
+#imagen-trello{
+    position: relative;
+    top: 120px;
+    left: 120px;
+    width: 369px;
+    
+}
+#texto-trello {
+    position: relative;
+    top: -90px;
+    left: 650px;
+    width: 45%;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+}
+#informacion a{
+    color: #fff;
+    font-size: 20px;
+}
+
+.menu{
+    color: #999;
+    font-size: .8em;
+    margin: 4em 1em;
+    text-align: center;
+}
+.menu ul
+{
+    margin:15px;
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    height: 100px;
+    left: 100px;
+    text-align: center;
+    text-decoration: underline;
+}
+.menu-li
+{
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+.menu li a{
+    display:block;
+    padding: 15px 20px;
+    color: black;
+    text-decoration:none;
+}
+.link  {
+    border: 1px solid;
+    border-radius: .3em;
+    display: inline-block;
+    margin: .6em 0;
+    padding: .6em 1em;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.link a:hover{
+    background: rgba(0,0,0,0.3)
+        
+}
